@@ -1,0 +1,1 @@
+msgbox "*************************************" & chr(13) &"********** Login liberado ! *********" & chr(13) & "**** já disponivel para utilizar !  ****" & chr(13) & "*************************************", vbinformation, " Titulo da MSG"
